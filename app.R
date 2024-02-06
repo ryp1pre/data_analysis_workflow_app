@@ -1,4 +1,5 @@
-# Application for streamlining the analysis of data
+# Data Analysis Workflow
+# (Application for streamlining the analysis of data)
 # 
 # Version 5
 # Author: r.y.penchev@gmail.com
